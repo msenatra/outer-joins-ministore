@@ -46,4 +46,3 @@ INSERT INTO ventas VALUES (8, 102, 203, 8, '2024-03-12');
 INSERT INTO ventas VALUES (9, 107, 204, 2, '2024-03-20');
 -- Esta venta tiene un producto_id que NO existe en el catálogo (importante para el RIGHT JOIN)
 INSERT INTO ventas VALUES (10, 999, 205, 1, '2024-03-25');
-
