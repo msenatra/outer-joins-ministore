@@ -1,11 +1,8 @@
 -- ══════════════════════════════════════════
 -- MiniStore — Soluciones con Outer JOINs
--- Autor: Marcos Senatra
+-- Autor: Marcos
 -- Fecha: 25-08-2026
 -- ══════════════════════════════════════════
-
-USE MiniStore_DB;
-GO
 
 -- ── CONSULTA 1: LEFT JOIN ─────────────────
 -- Pregunta de negocio: ¿Qué productos del catálogo nunca fueron vendidos?
